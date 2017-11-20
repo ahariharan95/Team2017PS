@@ -1,0 +1,3 @@
+We can use XGBoost package on R for more efficient computing for our model/predictions. 
+
+https://cran.r-project.org/web/packages/xgboost/vignettes/xgboostPresentation.html
